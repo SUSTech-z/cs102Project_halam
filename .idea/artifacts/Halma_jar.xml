@@ -1,1 +1,20 @@
 
+<?xml version="1.0"?>
+
+-<component name="ArtifactManager">
+
+
+-<artifact name="Halma:jar" type="jar">
+
+<output-path>$PROJECT_DIR$/out/artifacts/Halma_jar</output-path>
+
+
+-<root name="Halma.jar" id="archive">
+
+<element name="Halma" id="module-output"/>
+
+</root>
+
+</artifact>
+
+</component>
